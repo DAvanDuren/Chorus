@@ -21,7 +21,7 @@ HOW TO USE for computing transfer coefficients with your own data:
 2. In the code change the variable "f_data" to your required data. (currently it only contains computed kappa dist. functions)
 3. Change the path for Symphony thermal components if needed.
 4. Comment the line plotting Symphony data (recognized by the .plot using the label 'Symphony Data') if this plot is not needed.
-5. Use the 'def' by indicating how many components, what range of lambda and if you want to use Symphony components you want to use.
+5. Use the 'def' by indicating how many components, what range of lambda you want to use and if you want to use Symphony components.
 
 As a last comment, the authors thank Marijke Haverkorn for her comments on the work. Additionally, Chorus is much improved by utilizing the interior solver Clarabel developed by Goulart et al.** 
 
