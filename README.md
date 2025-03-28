@@ -31,7 +31,7 @@ For questions send an email to david.vanduren@ru.nl
 † Marszewski A., Prather B. S., Joshi A. V., Pandya A., Gammie C. F., 2021,
 The Astrophysical Journal, 921, 17
 
-* Pandya A., Zhang Z., Chandra M., Gammie C. F., 2016, The Astrophysical
+.*Pandya A., Zhang Z., Chandra M., Gammie C. F., 2016, The Astrophysical
 Journal, 822, 34
 
 ** Goulart P. J., Chen Y., 2024, arXiv preprint arXiv:2405.12762
